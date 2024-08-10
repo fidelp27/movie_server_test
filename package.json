@@ -1,0 +1,17 @@
+{
+  "name": "movies_server_coursera",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1",
+    "nodemon": "^3.1.4"
+  }
+}
